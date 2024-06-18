@@ -1,6 +1,9 @@
-if SHIELD_POTATO_LEFT 
+if SHIELD_POTATO
 
-    config ZMK_KEYBOARD_NAME
-        default "potato_left"
+config ZMK_KEYBOARD_NAME
+    default "potato"
+
+config BT
+    default y
 
 endif
