@@ -1,0 +1,2 @@
+config SHIELD_POTATO_LEFT
+    def_bool $(shields_list_contains,potato_left)
