@@ -8,7 +8,7 @@
 
         default_layer {
             bindings = <
-                            &kp ESC     &kp KP_N1   &kp KP_N2
+                            &kp ESC     &kp KP_N1   &bt BT_CLR_ALL
                 &kp Q       &kp W       &kp E       &kp R       &kp T
                 &kp A       &kp S       &kp D       &kp F       &kp G
                 &kp Z       &kp X       &kp C       &kp V       &kp B
